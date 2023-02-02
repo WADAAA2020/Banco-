@@ -1,0 +1,8 @@
+C:\Users\mateus.agwada\source\repos\Banco2\bin\Debug\Banco2.exe.config
+C:\Users\mateus.agwada\source\repos\Banco2\bin\Debug\Banco2.exe
+C:\Users\mateus.agwada\source\repos\Banco2\bin\Debug\Banco2.pdb
+C:\Users\mateus.agwada\source\repos\Banco2\obj\Debug\Banco2.csproj.AssemblyReference.cache
+C:\Users\mateus.agwada\source\repos\Banco2\obj\Debug\Banco2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.agwada\source\repos\Banco2\obj\Debug\Banco2.csproj.CoreCompileInputs.cache
+C:\Users\mateus.agwada\source\repos\Banco2\obj\Debug\Banco2.exe
+C:\Users\mateus.agwada\source\repos\Banco2\obj\Debug\Banco2.pdb
